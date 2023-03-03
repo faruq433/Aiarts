@@ -1,0 +1,56 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.shot1{
+    height: 40vh;
+    width: 100%;
+}
+.shot2{
+    height: 40vh;
+    width: 100%;
+
+}
+.shot3{
+    height: 40vh;
+    width: 100%;
+
+}
+.fot{
+    font-family: ll-unica77, "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    margin-left: 80px;
+    padding-top: 30px;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    background-color:whitesmoke !important;
+    flex-direction: row;
+    min-height: 80vh;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.text{
+    text-align: center;
+    color: aqua;
+}
+
+
+img{
+    object-fit: cover;
+}
+
+.card{
+    height: 20vh;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.body{
+    width: 100%;
+    height: 100vh;
+    /* background-color: crimson; */
+}

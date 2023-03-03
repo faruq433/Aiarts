@@ -1,0 +1,150 @@
+@import url(./ICONN/fontawesome-free-6.1.2-web/css/all.css);
+/* @import url(../icon/fontawesome-free-6.1.2-web/css/all.css); */
+html,body{
+    padding: 0px;
+    margin: 0px;
+}
+.bgImg{
+    background-image: url(./image/LordAdel_footballer_feet_hits_a_ball_hard_wearing_a_blue_design_99269352-fdaa-4578-84ed-4a846a052851.png);
+    height: 90vh;
+     background-repeat: no-repeat;
+      background-size: cover;
+      background-position: fixed;
+}
+
+img{
+    object-fit: cover;
+}
+.mio{
+    height: 30vh;
+    width: 100%;
+}
+.show{
+    background-color: rgb(21,91,162);
+    height: 20vh;
+    
+}
+.disp1{
+    background-color: rgb(237,239,242);
+    width: 100%;
+    height: 70vh;
+    /* margin-top: -30px; */
+    /* position: fixed; */
+}
+
+.kit{
+    width: 100%;
+}
+
+.sd{
+    width: 50%;
+    height: 20vh;
+    border: 1px solid transparent;
+    margin-left: 27%;
+    margin-top: 30px;
+
+}
+.disp2{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    padding-top: 40px;
+    
+}
+
+.disp3{
+    margin-left: 34%;
+    margin-top: 30px;
+}
+
+.body1{
+    width: 100%;
+    height: 100vh;
+    /* height: fit-content; */
+    /* background-color: rgb(191,234,250); */
+    
+}
+
+.fot{
+    font-family: ll-unica77, "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    margin-left: 80px;
+    padding-top: 30px;
+}
+
+.card{
+    height: 20vh;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.shot1{
+    height: 40vh;
+}
+.shot2{
+    height: 40vh;
+}
+.shot3{
+    height: 40vh;
+}
+.shot4{
+    height: 40vh;
+}
+
+
+.dis{
+    display: flex;
+    width: 100%;
+    background-color:whitesmoke !important;
+    flex-direction: row;
+    min-height: 80vh;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+/* .bg-danger{
+    background-color: red;
+} */
+.dis .card:hover{
+    transform: scale(1.01);
+    transition: 0.1 ease;
+
+}
+
+/* .shift{
+    margin-left:280px;
+    font-size:larger;
+} */
+
+/* 'https://mdbcdn.b-cdn.net/img/new/slides/041.webp' */
+
+.btn-top{
+    margin-top:1%;
+    height: 7vh;
+}
+
+@media (max-width:430px) {
+    .small{
+        font-size: 20px;
+    }
+}
+
+
+.contact{
+    width: 100%;
+    height: 40vh;
+    background-color: grey;
+    margin-top: -10px;
+}
+
+.cont{
+    text-align: center;
+    margin-top: 40px;
+}
+.corn{
+    margin-left: 40%;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.yoo{
+    margin-left: 40%;
+    margin-top: 70px;
+}
+
